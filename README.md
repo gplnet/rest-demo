@@ -1,5 +1,5 @@
 ### Tabla de Contenido
-*[Información General] (Información General)
+*[Información General](Información General)
 *[Setup](#setup)
 
 ### Información General
@@ -8,11 +8,11 @@ junto con las tecnologias que conocen.
 
 Tiene 5 servicios Rest:
 ```
-http://localhost:8099/developers/all
-http://localhost:8099/developers/registry
-http://localhost:8099/developers/getDeveloper/{id}
-http://localhost:8099/developers/update/{id}
-http://localhost:8099/developers/delete/{id}
+https://apirest-demo-avalith.herokuapp.com/developers/all
+https://apirest-demo-avalith.herokuapp.com/developers/registry
+https://apirest-demo-avalith.herokuapp.com/developers/getDeveloper/{id}
+https://apirest-demo-avalith.herokuapp.com/developers/update/{id}
+https://apirest-demo-avalith.herokuapp.com/developers/delete/{id}
 ```
 
 ### Setup
